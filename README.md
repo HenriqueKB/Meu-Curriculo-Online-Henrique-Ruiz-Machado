@@ -1,3 +1,3 @@
 # Meu-Curriculo-Online---Henrique-Ruiz-Machado
-Um site que fiz como um currículo sobre mim.
-Ele é simples, apenas para demosntrar sobre eu.
+Um simples site que fiz como um currículo sobre mim.
+Aqui você encontrará o que precisa saber sobre mim.
